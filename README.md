@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Coffee shop app based on Starbucks
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
